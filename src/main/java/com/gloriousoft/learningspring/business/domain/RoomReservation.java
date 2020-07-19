@@ -6,9 +6,18 @@ public class RoomReservation {
     private long roomId;
     private long guestId;
     private String roomName;
+    private String roomNumber;
     private String firstName;
     private String lastName;
     private Date date;
+
+    public String getRoomNumber() {
+        return roomNumber;
+    }
+
+    public void setRoomNumber(String roomNumber) {
+        this.roomNumber = roomNumber;
+    }
 
     public long getRoomId() {
         return roomId;
