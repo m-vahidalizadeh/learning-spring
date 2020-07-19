@@ -10,10 +10,10 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-public class LearningSpring2Application {
+public class LearningSpringApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LearningSpring2Application.class, args);
+        SpringApplication.run(LearningSpringApplication.class, args);
     }
 
     @RestController

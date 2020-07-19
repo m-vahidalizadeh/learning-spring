@@ -1,10 +1,10 @@
-package com.gloriousoft.learningspring2;
+package com.gloriousoft.learningspring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LearningSpring2ApplicationTests {
+class LearningSpringApplicationTests {
 
     @Test
     void contextLoads() {
