@@ -1,7 +1,7 @@
-package com.gloriousoft.learningspring2;
+package com.gloriousoft.learningspring;
 
-import com.gloriousoft.learningspring2.data.entity.Room;
-import com.gloriousoft.learningspring2.data.repository.RoomRepository;
+import com.gloriousoft.learningspring.data.entity.Room;
+import com.gloriousoft.learningspring.data.repository.RoomRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

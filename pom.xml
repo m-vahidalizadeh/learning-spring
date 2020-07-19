@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.gloriousoft</groupId>
-    <artifactId>learning-spring2</artifactId>
+    <artifactId>learning-spring</artifactId>
     <version>1.0.0</version>
-    <name>learning-spring2</name>
+    <name>learning-spring</name>
     <description>Demo application for learning Spring with Spring Boot</description>
 
     <properties>

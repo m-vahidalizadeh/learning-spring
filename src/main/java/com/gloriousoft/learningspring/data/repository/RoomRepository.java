@@ -1,6 +1,6 @@
-package com.gloriousoft.learningspring2.data.repository;
+package com.gloriousoft.learningspring.data.repository;
 
-import com.gloriousoft.learningspring2.data.entity.Room;
+import com.gloriousoft.learningspring.data.entity.Room;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.gloriousoft.learningspring2.data.entity;
+package com.gloriousoft.learningspring.data.entity;
 
 import javax.persistence.*;
 
